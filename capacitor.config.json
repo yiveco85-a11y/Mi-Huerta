@@ -1,0 +1,6 @@
+{
+  "appId": "com.mihuerta.app",
+  "appName": "Mi Huerta",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
